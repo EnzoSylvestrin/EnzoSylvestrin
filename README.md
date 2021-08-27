@@ -1,7 +1,6 @@
 # Olá, Eu sou o Enzo Sylvestrin!!
 
-- Técnico em informática 💻
-- Estudando Java e Git 📖
+- Learning Java and Git 📖
 
 <div>
   <a href="https://github.com/EnzoSylvestrin">
