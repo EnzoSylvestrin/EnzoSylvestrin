@@ -1,7 +1,7 @@
 # Olá, Eu sou o Enzo Sylvestrin!!
 
 - Técnico em informática 💻
-- Estudando Java ☕
+- Estudando Java e Git 📖
 
 <div>
   <a href="https://github.com/EnzoSylvestrin">
@@ -15,6 +15,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Msdos" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg">
+  <img align="right" alt="Kirito" src="https://c.tenor.com/luW9vw2_ZtMAAAAM/kirito-kazuto.gif">
 </div>
   
   ##
