@@ -1,6 +1,6 @@
 # Olá, Eu sou o Enzo Sylvestrin!!
 
-- Aprendendo Java e Asp.Net 📖
+- Aprendendo Java 📖
 
 <div>
   <a href="https://github.com/EnzoSylvestrin">
