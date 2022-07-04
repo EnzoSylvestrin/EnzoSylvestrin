@@ -1,7 +1,7 @@
 # Olá, Eu sou o Enzo Sylvestrin!!
 
 - Estudando React e Node.js 📖
-- Trabalhando com Java
+- Trabalhando com Java ☕
 
 <div>
   <a href="https://github.com/EnzoSylvestrin">
