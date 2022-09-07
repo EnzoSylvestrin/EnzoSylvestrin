@@ -8,7 +8,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnzoSylvestrin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoSylvestrin&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
@@ -23,7 +23,7 @@
   
   ##
 
-<div>
+<div align="center">
  <a href="https://enzosylvestrin.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzo-sylvestrin-336b71221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.youtube.com/channel/UC4b2iCruWXbpwxtdRz_6paQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
