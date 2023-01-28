@@ -20,6 +20,7 @@
   <code><img alt="TypeScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
   <code><img alt="Node.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
   <code><img alt="React.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></code>
+  <code><img alt="Next.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /></code>
   <code><img alt="Framer" height="32" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></code>
   <code><img alt="Styled Components" height="32" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" /></code>
 </div>
