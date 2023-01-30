@@ -11,18 +11,19 @@
 </div>
  
 <div align="center"><br>
-  <code><img alt="Git" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></code>
-  <code><img alt="Csharp" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code>
-  <code><img alt="Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></code>
-  <code><img alt="Android" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" /></code>
-  <code><img alt="Python" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
-  <code><img alt="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
-  <code><img alt="TypeScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
-  <code><img alt="Node.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
-  <code><img alt="React.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></code>
-  <code><img alt="Next.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /></code>
-  <code><img alt="Framer" height="32" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></code>
-  <code><img alt="Styled Components" height="32" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" /></code>
+  <code><img title="Git" alt="Git" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></code>
+  <code><img title="Csharp" alt="Csharp" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code>
+  <code><img title="Java" alt="Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></code>
+  <code><img title="Android" alt="Android" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" /></code>
+  <code><img title="Python" alt="Python" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
+  <code><img title="javaScript" alt="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
+  <code><img title="TypeScript" alt="TypeScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
+  <code><img title="Node" alt="Node.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
+  <code><img title="React" alt="React.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></code>
+  <code><img title="Next" alt="Next.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /></code>
+  <code><img title="Framer motion" alt="Framer" height="32" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></code>
+  <code><img title="Styled Components" alt="Styled Components" height="32" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" /></code>
+  <code><img title="Tailwindcss" alt="Tailwindcss" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" /></code>
 </div>
   
   ##
