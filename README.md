@@ -11,26 +11,29 @@
 </div>
  
 <div align="center"><br>
-  <code><img title="Git" alt="Git" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></code>
-  <code><img title="Csharp" alt="Csharp" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code>
-  <code><img title="Java" alt="Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></code>
-  <code><img title="Android" alt="Android" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" /></code>
-  <code><img title="Python" alt="Python" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
-  <code><img title="javaScript" alt="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
-  <code><img title="TypeScript" alt="TypeScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
-  <code><img title="Node" alt="Node.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
-  <code><img title="React" alt="React.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></code>
-  <code><img title="Next" alt="Next.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /></code>
-  <code><img title="Framer motion" alt="Framer" height="32" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></code>
-  <code><img title="Styled Components" alt="Styled Components" height="32" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" /></code>
-  <code><img title="Tailwindcss" alt="Tailwindcss" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" /></code>
+  <code><img title="Git" alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></code>
+  <code><img title="Csharp" alt="Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code>
+  <code><img title="Java" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></code>
+  <code><img title="Python" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
+  <code><img title="javaScript" alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
+  <code><img title="TypeScript" alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
+  <code><img title="Node" alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
+  <code><img title="React" alt="React.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></code>
+  <code><img title="Next" alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /></code>
+  <code><img title="Framer motion" alt="Framer" height="40" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></code>
+  <code><img title="Styled Components" alt="Styled Components" height="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" /></code>
+  <code><img title="Tailwindcss" alt="Tailwindcss" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" /></code>
+  <code><img title="MongoDB" alt="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" /></code>
+    <code><img title="Postgresql" alt="Tailwindcss" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" /></code>
 </div>
   
   ##
   
 <div align="center">
   <div >
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=EnzoSylvestrin&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=EnzoSylvestrin&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D" /><br /><br />
+    
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EnzoSylvestrin&bg_color=0d1117&color=3b82f6&line=06b6d4&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </div>
   <br />
   <a href="https://portfolio-enzosylvestrin.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
