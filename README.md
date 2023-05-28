@@ -33,7 +33,7 @@
   <div >
       <img src="https://github-readme-streak-stats.herokuapp.com?user=EnzoSylvestrin&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D" /><br /><br />
     
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EnzoSylvestrin&bg_color=141321&color=FD418D&line=F7D746&point=06b6d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoSylvestrin&bg_color=141321&color=FD418D&line=F7D746&point=06b6d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </div>
   <br />
   <a href="https://portfolio-enzosylvestrin.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
