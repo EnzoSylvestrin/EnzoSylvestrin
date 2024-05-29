@@ -22,11 +22,11 @@
   <code><img title="Next" alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /></code>
   <code><img title="Framer motion" alt="Framer" height="40" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></code>
   <code><img title="Styled Components" alt="Styled Components" height="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" /></code>
-  <code><img title="Tailwindcss" alt="Tailwindcss" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" /></code>
+  <code><img title="Tailwindcss" alt="Tailwindcss" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" /></code>
   <code><img title="MongoDB" alt="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" /></code>
   <code><img title="Postgresql" alt="postgress" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" /></code>
   <code><img title="graphql" alt="graphql" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" /></code>
-  <code><img title="nestjs" alt="nestjs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" /></code>
+  <code><img title="nestjs" alt="nestjs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" /></code>
 </div>
   
   ##
