@@ -1,6 +1,6 @@
 <h1 align="center">Olá, Eu sou o Enzo Sylvestrin!!</h1>
 
-<p align="center">Sou atualmente um estudante do primeiro ano de Ciência da computação na UNIP!</p>
+<p align="center">Sou atualmente um estudante do segundo ano de Ciência da computação na UNIP!</p>
 
 <div align="center">
   <a href="https://github.com/EnzoSylvestrin">
