@@ -11,22 +11,7 @@
 </div>
  
 <div align="center"><br>
-  <code><img title="Git" alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></code>
-  <code><img title="Csharp" alt="Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code>
-  <code><img title="Java" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></code>
-  <code><img title="Python" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
-  <code><img title="javaScript" alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
-  <code><img title="TypeScript" alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
-  <code><img title="Node" alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
-  <code><img title="React" alt="React.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></code>
-  <code><img title="Next" alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /></code>
-  <code><img title="Framer motion" alt="Framer" height="40" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" /></code>
-  <code><img title="Styled Components" alt="Styled Components" height="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" /></code>
-  <code><img title="Tailwindcss" alt="Tailwindcss" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" /></code>
-  <code><img title="MongoDB" alt="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" /></code>
-  <code><img title="Postgresql" alt="postgress" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" /></code>
-  <code><img title="graphql" alt="graphql" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" /></code>
-  <code><img title="nestjs" alt="nestjs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" /></code>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,vite,html,css,tailwind,js,ts,react,nextjs,redux,firebase,mongodb,mysql,sqlite,postgresql,postman,vercel,figma,materialui,aws,cloudflare,express,docker,graphql,heroku,jest,linux,nestjs,prisma,styledcomponents,svg,python,java" alt="skills logos" />
 </div>
   
   ##
