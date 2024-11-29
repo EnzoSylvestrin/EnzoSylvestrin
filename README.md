@@ -11,7 +11,7 @@
 </div>
  
 <div align="center"><br>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,vite,html,css,tailwind,js,ts,react,nextjs,redux,firebase,mongodb,mysql,sqlite,postgresql,postman,vercel,figma,materialui,aws,cloudflare,express,docker,graphql,heroku,jest,linux,nestjs,prisma,styledcomponents,svg,python,java" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,vite,html,css,tailwind,js,ts,react,nextjs,laravel,php,redux,firebase,mongodb,mysql,sqlite,postgresql,postman,vercel,figma,materialui,aws,cloudflare,express,docker,graphql,heroku,jest,linux,nestjs,prisma,styledcomponents,svg,python,java" alt="skills logos" />
 </div>
   
   ##
