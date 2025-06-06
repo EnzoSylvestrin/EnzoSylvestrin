@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/EnzoSylvestrin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoSylvestrin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=EnzoSylvestrin&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoSylvestrin&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
     <br />
   </a>
@@ -18,7 +18,6 @@
   
 <div align="center">
   <div >
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=EnzoSylvestrin&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D" /><br /><br />
     
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoSylvestrin&bg_color=141321&color=FD418D&line=F7D746&point=06b6d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </div>
